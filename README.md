@@ -1,4 +1,9 @@
-## Hi there 👋
+
+- [Listas - POO](https://github.com/nes-poo-2025/lista-03-pedromarq40) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54): Atividades de Aprendizagem da Matéria de Programação Orientada a Objetos em Python.
+* **[Trabalho de POO](https://github.com/nes-poo-2025/trabalho-pedromarq40)** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54): Trabalho Da Disciplina de Programação Orintada a Objetos em Python.
+
+---
+> 💡 **Nota:** Estes repositórios são mantidos na organização do curso e podem estar privados. Minhas contribuições neles podem ser visualizadas através do gráfico de atividade do meu perfil.
 
 <!--
 **pedromarq40/pedromarq40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
