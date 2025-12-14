@@ -9,6 +9,16 @@
 ---
 >  **Nota:** Estes repositórios são mantidos na organização do curso e podem estar privados. Minhas contribuições neles podem ser visualizadas através do gráfico de atividade do meu perfil.
 
+# Linguagens / Ferramentas 
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 <!--
 **pedromarq40/pedromarq40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
