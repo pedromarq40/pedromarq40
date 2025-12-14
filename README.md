@@ -22,9 +22,12 @@
 
 # Estatísticas 
 
+# Estatísticas 
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromarq40&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarq40&layout=compact&langs_count=7&theme=dark />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarq40&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromarq40&theme=dark" />
 </p>
 
 <!--
