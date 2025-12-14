@@ -1,3 +1,4 @@
+# **Projetos / Atividades**
 
 * **[Listas - POO](https://github.com/nes-poo-2025/lista-03-pedromarq40)** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54): Atividades de Aprendizagem da Matéria de Programação Orientada a Objetos em Python.
 * **[Trabalho - POO](https://github.com/nes-poo-2025/trabalho-pedromarq40)** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54): Trabalho Da Disciplina de Programação Orintada a Objetos em Python.
