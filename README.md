@@ -23,9 +23,9 @@
 # Estatísticas 
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedromarq40&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2024" alt="Pedro Marques Stats" />
+  <img height="180" src="https://stats.programcx.cn/api?username=pedromarq40&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pedro Marques Stats" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarq40&layout=compact&langs_count=7&theme=dark&v=2024" alt="Pedro Marques Top Langs" />
+  <img height="180" src="https://stats.programcx.cn/api/top-langs/?username=pedromarq40&layout=compact&langs_count=7&theme=dark" alt="Pedro Marques Top Langs" />
 </p>
 
 <!--
