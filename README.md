@@ -14,7 +14,7 @@
 <p align="center">
   <img height="180" src="https://my-project-sandy-three.vercel.app/api?username=pedromarq40&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="180" src="https://my-project-sandy-three.vercel.app/api/top-langs/?username=pedromarq40&layout=compact&langs_count=7&theme=dark&hide=java,shell,powershell,Go-template" />
+  <img height="180" src="https://my-project-sandy-three.vercel.app/api/top-langs/?username=pedromarq40&layout=compact&langs_count=7&theme=dark&hide=java,shell,powershell,go+template,go-template,gotmpl" />
 </p>
 
 # Linguagens / Ferramentas 
