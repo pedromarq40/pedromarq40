@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # ESSA LINHA É O SEGREDO
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -17,5 +17,12 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           filename: github-metrics.svg
-          # Se quiser excluir os cursos, use a linha abaixo:
+          
+          # Configuração das Linguagens (Lado direito)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # Opcional: ignore linguagens simples
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          
+          # Filtros de repositórios
           repositories_skipped: AprendendoJava, CSI
