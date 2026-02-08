@@ -14,6 +14,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="DRF" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django REST Framework">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -23,22 +24,7 @@
 # Estatísticas 
 
 <p align="center">
-  <img height="180" src="https://stats.programcx.cn/api?username=pedromarq40&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pedro Marques Stats" />
-  &nbsp;
-  <img height="180" src="https://stats.programcx.cn/api/top-langs/?username=pedromarq40&layout=compact&langs_count=7&theme=dark" alt="Pedro Marques Top Langs" />
+  <img height="180" src="./github-metrics.svg" alt="Pedro Marques Stats" />
 </p>
 
-<!--
-**pedromarq40/pedromarq40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
