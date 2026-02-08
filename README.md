@@ -9,6 +9,12 @@
 ---
 >  **Nota:** Estes repositórios são mantidos na organização do curso e podem estar privados. Minhas contribuições neles podem ser visualizadas através do gráfico de atividade do meu perfil.
 
+# Estatísticas 
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Pedro Marques Stats" />
+</p>
+
 # Linguagens / Ferramentas 
 
 <div style="display: inline_block">
@@ -20,11 +26,5 @@
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
-# Estatísticas 
-
-<p align="center">
-  <img height="180" src="./github-metrics.svg" alt="Pedro Marques Stats" />
-</p>
 
 ---
