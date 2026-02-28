@@ -46,6 +46,7 @@ Foi através do IFAL que conheci e venho a aprofundar os estudos em Desenvolvime
 #### 📁 Atividades / MiniProjetos
 * **[PWEB - IFAL](https://github.com/pedromarq40/PWEB-IFAL)** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black): Repositório de atividades e projetos da disciplina de Programação Web no IFAL.
 * **[React - MiniProjetos](https://github.com/pedromarq40/REACT-MiniProjetos)** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB): Repositório dedicado ao aprendizado e prática de componentes e *hooks* em React.js.
+* **[POO - IFAL](https://github.com/pedromarq40/POO-IFAL)** ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white): Repositório dedicado a atividades e exercícios da disciplina de Programação Orientada a Objetos.
 
 
 ---
